@@ -105,7 +105,7 @@ Prediction:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/bert-news-classifier.git
+[git clone https://github.com/your-username/bert-news-classifier.git](https://github.com/yahya-abbasi-hub/News-Topic-Classifier-Using-BERT/blob/main/README.md)
 cd bert-news-classifier
 
 👨‍💻 Author
